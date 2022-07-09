@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iatim
+- 👋 Hi, I’m @timofeenkoivan
 - 👀 I’m interested in math, agronomy, groups theory
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
